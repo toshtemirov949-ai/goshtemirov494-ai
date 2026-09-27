@@ -1,0 +1,6 @@
+{
+  "name": "ZiyoTalim - Zamonaviy Ta'lim Platformasi",
+  "description": "Barcha fanlar, xorijiy tillar (ingliz, rus, fransuz, nemis) hamda eng so'nggi IT va dasturlash yo'nalishlaridagi zamonaviy interaktiv ta'lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
